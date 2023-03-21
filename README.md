@@ -89,6 +89,7 @@ git status 的输出`Unmerged`冲突文件列表
 Unmerged paths:下面列出的就是全部冲突文件，挨个解决即可
 
 
+# 远程仓库的一些操作
 
 查看远程仓库地址
 `git remote -v`
