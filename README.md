@@ -108,7 +108,7 @@ Unmerged paths:下面列出的就是全部冲突文件，挨个解决即可
 
 # 远程仓库的一些操作
 
-# 添加远程分支
+添加远程分支
 语法：`git remote add origin git_repository_url`
 例子：`git remote add origin https://github.com/HeHuiqi/q_git_use.git`
 
